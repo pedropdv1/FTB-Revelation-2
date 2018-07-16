@@ -1,0 +1,9 @@
+I'm getting this error when i click on a JEI Recipe, and it crashes me out of the game
+
+I am playing on the FTB Revelation 2.1 modpack with Faithful resource pack (Forge 14.23.4.2736)
+Here's the crashlog:
+The game crashed whilst rendering item
+Error: java.lang.ClassCastException: it.unimi.dsi.fastutil.ints.Int2ObjectOpenHashMap cannot be cast to gnu.trove.map.hash.TIntObjectHashMap
+
+and this is the complete crash report:
+https://pastebin.com/sU7K0uge
